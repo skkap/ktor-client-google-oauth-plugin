@@ -38,5 +38,3 @@ out/
 ### VS Code ###
 .vscode/
 
-## Secrets
-firebase-config.json

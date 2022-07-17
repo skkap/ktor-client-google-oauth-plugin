@@ -1,9 +1,5 @@
-package com.skkap.lookback.server.gateway.plugins
+package com.skkap.ktor.client.plugins.auth
 
-import com.skkap.ktor.client.plugins.auth.GoogleOauthRefreshTokenFailedException
-import com.skkap.ktor.client.plugins.auth.GoogleOauthRefreshTokenRejectedException
-import com.skkap.ktor.client.plugins.auth.GoogleRefreshTokenErrorResponse
-import com.skkap.ktor.client.plugins.auth.GoogleRefreshTokenResponse
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.plugins.HttpClientPlugin
